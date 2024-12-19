@@ -1,51 +1,51 @@
-author,title,category,book_id,status
-Harper Lee,To Kill a MockIngbird,Fiction,0,In
-George Orwell,1984,Dystopian,1,Out
-J.K. RowlIng,Harry Potter and the Sorcerer's Stone,Fantasy,2,Out
-J.R.R. Tolkien,The Hobbit,Fantasy,3,In
-Jane Austen,Pride and Prejudice,Romance,4,In
-Mark TwaIn,The Adventures of Huckleberry FInn,Classic,5,Out
-F. Scott Fitzgerald,The Great Gatsby,Classic,6,Out
-Gabriel García Márquez,One Hundred Years of Solitude,Magical Realism,7,In
-Ernest HemIngway,The Old Man and the Sea,Classic,8,In
-Mary Shelley,FrankensteIn,Horror,9,Out
-George R.R. MartIn,A Game of Thrones,Fantasy,10,In
-Stephen KIng,The ShInIng,Horror,11,Out
-Aldous Huxley,Brave New World,Dystopian,12,Out
-ChInua Achebe,ThIngs Fall Apart,Historical Fiction,13,In
-Leo Tolstoy,War and Peace,Historical Fiction,14,Out
-Charlotte Brontë,Jane Eyre,Classic,15,In
-Emily Brontë,WutherIng Heights,Classic,16,In
-Herman Melville,Moby-Dick,Adventure,17,In
-Victor Hugo,Les Misérables,Historical Fiction,18,In
-George Orwell,Animal Farm,Satire,19,In
-Paulo Coelho,The Alchemist,Fiction,20,In
-Khaled HosseIni,The Kite Runner,Drama,21,Out
-Arthur Conan Doyle,The Adventures of Sherlock Holmes,Mystery,22,Out
-Agatha Christie,Murder on the Orient Express,Mystery,23,Out
-Dan Brown,The Da VInci Code,Thriller,24,In
-John SteInbeck,Of Mice and Men,Classic,25,In
-C.S. Lewis,"The Lion, the Witch and the Wardrobe",Fantasy,26,Out
-J.D. SalInger,The Catcher In the Rye,Fiction,27,Out
-Homer,The Odyssey,Epic,28,In
-Sun Tzu,The Art of War,Non-Fiction,29,In
-Plato,The Republic,Philosophy,30,In
-Douglas Adams,The Hitchhiker's Guide to the Galaxy,Science Fiction,31,In
-Margaret Atwood,The Handmaid's Tale,Dystopian,32,Out
-Ray Bradbury,Fahrenheit 451,Dystopian,33,In
-Jules Verne,Twenty Thousand Leagues Under the Sea,Adventure,34,Out
-Isaac Asimov,Foundation,Science Fiction,35,Out
-Frank Herbert,Dune,Science Fiction,36,Out
-Edgar Allan Poe,The Complete Tales and Poems,Horror,37,Out
-William GoldIng,Lord of the Flies,Fiction,38,Out
-Leo Tolstoy,Anna KarenIna,Classic,39,Out
-Fyodor Dostoevsky,Crime and Punishment,Classic,40,Out
-Stephen KIng,It,Horror,41,Out
-Rick Riordan,The LightnIng Thief,Fantasy,42,In
-Orson Scott Card,Ender's Game,Science Fiction,43,In
-Haruki Murakami,Kafka on the Shore,Fiction,44,In
-George Eliot,Middlemarch,Classic,45,In
-John Green,The Fault In Our Stars,Young Adult,46,In
-Louisa May Alcott,Little Women,Classic,47,In
-Suzanne CollIns,The Hunger Games,Dystopian,48,In
-Roald Dahl,Charlie and the Chocolate Factory,Children's,49,In
+book_id,status,author,title,category
+0,In,Harper Lee,To Kill a MockIngbird,Fiction
+1,Out,George Orwell,1984,Dystopian
+2,Out,J.K. RowlIng,Harry Potter and the Sorcerer's Stone,Fantasy
+3,In,J.R.R. Tolkien,The Hobbit,Fantasy
+4,Out,Jane Austen,Pride and Prejudice,Romance
+5,In,Mark TwaIn,The Adventures of Huckleberry FInn,Classic
+6,In,F. Scott Fitzgerald,The Great Gatsby,Classic
+7,In,Gabriel García Márquez,One Hundred Years of Solitude,Magical Realism
+8,In,Ernest HemIngway,The Old Man and the Sea,Classic
+9,In,Mary Shelley,FrankensteIn,Horror
+10,Out,George R.R. MartIn,A Game of Thrones,Fantasy
+11,In,Stephen KIng,The ShInIng,Horror
+12,Out,Aldous Huxley,Brave New World,Dystopian
+13,Out,ChInua Achebe,ThIngs Fall Apart,Historical Fiction
+14,Out,Leo Tolstoy,War and Peace,Historical Fiction
+15,In,Charlotte Brontë,Jane Eyre,Classic
+16,Out,Emily Brontë,WutherIng Heights,Classic
+17,In,Herman Melville,Moby-Dick,Adventure
+18,In,Victor Hugo,Les Misérables,Historical Fiction
+19,In,George Orwell,Animal Farm,Satire
+20,In,Paulo Coelho,The Alchemist,Fiction
+21,In,Khaled HosseIni,The Kite Runner,Drama
+22,Out,Arthur Conan Doyle,The Adventures of Sherlock Holmes,Mystery
+23,Out,Agatha Christie,Murder on the Orient Express,Mystery
+24,In,Dan Brown,The Da VInci Code,Thriller
+25,In,John SteInbeck,Of Mice and Men,Classic
+26,In,C.S. Lewis,"The Lion, the Witch and the Wardrobe",Fantasy
+27,Out,J.D. SalInger,The Catcher In the Rye,Fiction
+28,In,Homer,The Odyssey,Epic
+29,In,Sun Tzu,The Art of War,Non-Fiction
+30,In,Plato,The Republic,Philosophy
+31,In,Douglas Adams,The Hitchhiker's Guide to the Galaxy,Science Fiction
+32,In,Margaret Atwood,The Handmaid's Tale,Dystopian
+33,In,Ray Bradbury,Fahrenheit 451,Dystopian
+34,In,Jules Verne,Twenty Thousand Leagues Under the Sea,Adventure
+35,In,Isaac Asimov,Foundation,Science Fiction
+36,In,Frank Herbert,Dune,Science Fiction
+37,In,Edgar Allan Poe,The Complete Tales and Poems,Horror
+38,In,William GoldIng,Lord of the Flies,Fiction
+39,In,Leo Tolstoy,Anna KarenIna,Classic
+40,In,Fyodor Dostoevsky,Crime and Punishment,Classic
+41,In,Stephen KIng,It,Horror
+42,In,Rick Riordan,The LightnIng Thief,Fantasy
+43,In,Orson Scott Card,Ender's Game,Science Fiction
+44,Out,Haruki Murakami,Kafka on the Shore,Fiction
+45,In,George Eliot,Middlemarch,Classic
+46,In,John Green,The Fault In Our Stars,Young Adult
+47,In,Louisa May Alcott,Little Women,Classic
+48,In,Suzanne CollIns,The Hunger Games,Dystopian
+49,Out,Roald Dahl,Charlie and the Chocolate Factory,Children's
