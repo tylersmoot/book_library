@@ -1,0 +1,51 @@
+author,title,category,book_id,status
+Harper Lee,To Kill a MockIngbird,Fiction,0,In
+George Orwell,1984,Dystopian,1,Out
+J.K. RowlIng,Harry Potter and the Sorcerer's Stone,Fantasy,2,Out
+J.R.R. Tolkien,The Hobbit,Fantasy,3,In
+Jane Austen,Pride and Prejudice,Romance,4,In
+Mark TwaIn,The Adventures of Huckleberry FInn,Classic,5,Out
+F. Scott Fitzgerald,The Great Gatsby,Classic,6,Out
+Gabriel García Márquez,One Hundred Years of Solitude,Magical Realism,7,In
+Ernest HemIngway,The Old Man and the Sea,Classic,8,In
+Mary Shelley,FrankensteIn,Horror,9,Out
+George R.R. MartIn,A Game of Thrones,Fantasy,10,In
+Stephen KIng,The ShInIng,Horror,11,Out
+Aldous Huxley,Brave New World,Dystopian,12,Out
+ChInua Achebe,ThIngs Fall Apart,Historical Fiction,13,In
+Leo Tolstoy,War and Peace,Historical Fiction,14,Out
+Charlotte Brontë,Jane Eyre,Classic,15,In
+Emily Brontë,WutherIng Heights,Classic,16,In
+Herman Melville,Moby-Dick,Adventure,17,In
+Victor Hugo,Les Misérables,Historical Fiction,18,In
+George Orwell,Animal Farm,Satire,19,In
+Paulo Coelho,The Alchemist,Fiction,20,In
+Khaled HosseIni,The Kite Runner,Drama,21,Out
+Arthur Conan Doyle,The Adventures of Sherlock Holmes,Mystery,22,Out
+Agatha Christie,Murder on the Orient Express,Mystery,23,Out
+Dan Brown,The Da VInci Code,Thriller,24,In
+John SteInbeck,Of Mice and Men,Classic,25,In
+C.S. Lewis,"The Lion, the Witch and the Wardrobe",Fantasy,26,Out
+J.D. SalInger,The Catcher In the Rye,Fiction,27,Out
+Homer,The Odyssey,Epic,28,In
+Sun Tzu,The Art of War,Non-Fiction,29,In
+Plato,The Republic,Philosophy,30,In
+Douglas Adams,The Hitchhiker's Guide to the Galaxy,Science Fiction,31,In
+Margaret Atwood,The Handmaid's Tale,Dystopian,32,Out
+Ray Bradbury,Fahrenheit 451,Dystopian,33,In
+Jules Verne,Twenty Thousand Leagues Under the Sea,Adventure,34,Out
+Isaac Asimov,Foundation,Science Fiction,35,Out
+Frank Herbert,Dune,Science Fiction,36,Out
+Edgar Allan Poe,The Complete Tales and Poems,Horror,37,Out
+William GoldIng,Lord of the Flies,Fiction,38,Out
+Leo Tolstoy,Anna KarenIna,Classic,39,Out
+Fyodor Dostoevsky,Crime and Punishment,Classic,40,Out
+Stephen KIng,It,Horror,41,Out
+Rick Riordan,The LightnIng Thief,Fantasy,42,In
+Orson Scott Card,Ender's Game,Science Fiction,43,In
+Haruki Murakami,Kafka on the Shore,Fiction,44,In
+George Eliot,Middlemarch,Classic,45,In
+John Green,The Fault In Our Stars,Young Adult,46,In
+Louisa May Alcott,Little Women,Classic,47,In
+Suzanne CollIns,The Hunger Games,Dystopian,48,In
+Roald Dahl,Charlie and the Chocolate Factory,Children's,49,In
